@@ -35,10 +35,10 @@ For more detailed cover up, learn my post about [**Python virtual environment**]
 
 #### **2\. Install Required Packages**
 
-With your virtual environment activated, install Streamlit and [**OpenAI Python SDK**](https://github.com/openai/openai-python) as Grok xAI API is compatible with OpenAI (as well as any other dependencies you need) using `pip`:
+With your virtual environment activated, install Streamlit and [**OpenAI Python SDK**](https://github.com/openai/openai-python) using `pip`:
 
     pip install streamlit openai
     
-This will install the Streamlit framework, which we use to build our interactive web app, and the OpenAI package, which is required to interact with the Grok xAI API.
+This will install the Streamlit framework, which we use to build our interactive web app, and the OpenAI package, which is required to interact with the OpenAI API.
 
 Read the full explanation and tutorial on [**Build a Streamlit App to Test OpenAI’s GPT-4.1 Models**](https://walterpinem.com/openai-gpt-4-1/).
